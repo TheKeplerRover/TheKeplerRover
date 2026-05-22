@@ -13,8 +13,8 @@ I like building systems where the hard part is not only the model call, but the 
 
 ## Featured Builds
 
-[GCP RAG Email Agent](https://github.com/TheKeplerRover)  
-A private hands-on case study for a Google Cloud RAG email assistant using ADK, Vertex AI Vector Search, Gemini, and Agent Engine. Built end-to-end with report redaction, embeddings, semantic retrieval, structured appointment tooling, managed deployment, IAM debugging, and runtime observability. Source code and personal learning notes remain private.
+GCP RAG Email Agent *(private — code & personal notes not public)*  
+A hands-on case study for a Google Cloud RAG email assistant using ADK, Vertex AI Vector Search, Gemini, and Agent Engine. Built end-to-end with report redaction, embeddings, semantic retrieval, structured appointment tooling, managed deployment, IAM debugging, and runtime observability.
 
 [personal-email-agent](https://github.com/TheKeplerRover/personal-email-agent)  
 A privacy-first Outlook email digest agent with Microsoft Graph OAuth, Cloudflare Cron automation, refresh-token rotation, low-value-mail filtering, passcode redaction, and LLM-generated daily/weekly briefs.
